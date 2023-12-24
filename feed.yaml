@@ -2,4 +2,18 @@ title: simple feedback action
 subtitle: github action using python, yml and xml, RSS
 image: /img/github-actions.jpg
 description: this simple github page to test the github action fundamentals.
+author: sumer5020
 lang: en
+link:  https://sumer5020.github.io/action-tst
+category: QR Code
+items:
+  - title: contact info 1
+    image: img/sumer5020.png
+  - title: contact info 2
+    image: img/sumer5020.png
+  - title: contact info 3
+    image: img/sumer5020.png
+  - title: contact info 4
+    image: img/sumer5020.png
+  - title: contact info 5
+    image: img/sumer5020.png
